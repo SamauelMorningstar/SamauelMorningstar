@@ -24,7 +24,7 @@
 </div>
 <div class="cardInside">
     <h3 class="back">HAPPY BIRTHDAY!</h3>
-    <p>Dear best friend,</p>
+    <p>Dear Kishu Mama,</p>
     <p>Wishing you a Happiest Born Day KISHU MAMA 😎🍰🎂
       Stay Happy Stay blessed 💞
       May ur all dreams come true 💘
